@@ -10,3 +10,15 @@ STEP4: 更新完所有内容后，获得一个A点到达所有其他点的最短
 
 ![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/001.png)
 
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/002.png)
+->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/003.png)
+->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/004.png)
+->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/005.png)
+->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/006.png)
+->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/007.png)
+
