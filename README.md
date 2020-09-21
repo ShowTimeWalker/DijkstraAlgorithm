@@ -9,16 +9,16 @@ STEP3: 按照更新后的表格，再取除了A点所能到达的点中除了B�
 STEP4: 更新完所有内容后，获得一个A点到达所有其他点的最短路径和最短距离表格  
 
 ![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/001.png)
-
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/008.png)
 ![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/002.png)
-->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/009.png)
 ![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/003.png)
-->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/010.png)
 ![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/004.png)
-->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/011.png) 
 ![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/005.png)
-->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/012.png) 
 ![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/006.png)
-->  
+![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/013.png)
 ![](https://github.com/ShowTimeWalker/DijkstraAlgorithm/blob/master/images/007.png)
 
